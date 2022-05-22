@@ -1,6 +1,7 @@
 - 👋 Hi, I’m just a cloud architect from Thailand.
 - 👀 I’m interested in cloud (especially AWS), automation/IaC and DevOps.
-- 🌱 I always learning and sharing about cloud (AWS), automation/IaC and DevOps.
+- 🌱 I always learn about cloud (AWS), automation/IaC and DevOps.
+- 🌱 And I have passionate about sharing knowledge with everyone.
 - 📫 I just started my project "Big Cloud Boy", you can reach me at...
 
   * Website: https://www.bigcloudboy.com
